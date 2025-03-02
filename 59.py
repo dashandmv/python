@@ -1,0 +1,5 @@
+name = input()
+ser = input()
+age = input()
+my_tuple = (name , ser , age)
+print(f"name: {my_tuple[0]}, sername: {my_tuple[1]}, age: {my_tuple[2]}")

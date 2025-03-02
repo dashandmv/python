@@ -1,0 +1,5 @@
+a = input()
+a = a.strip().replace("а" , "о").replace(" " , "_")
+print(a)
+n = a.split("_")
+print(n)
